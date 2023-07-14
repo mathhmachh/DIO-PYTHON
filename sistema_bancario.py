@@ -1,4 +1,4 @@
-menu = """"
+menu = """
 
 [1] DEPOSITAR
 [2] SACAR
